@@ -1,0 +1,1 @@
+Developed an image processing module in C++, representing images as binary trees to manage image data efficiently. Designed and implemented a recursive function to prune subtrees within the Image Tree using a tolerance threshold, optimizing memory usage without significant loss of image quality.
